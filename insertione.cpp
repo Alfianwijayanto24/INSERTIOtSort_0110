@@ -70,3 +70,10 @@ void display()
 
 }
 
+int main(){
+    input();
+    insertinosort();
+    display();
+    system("pause");
+
+} 
